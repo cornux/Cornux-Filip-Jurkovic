@@ -1,0 +1,2 @@
+Novi način unosa robe i obrade narudžbenica u ugostiteljstvu. Prva aplikacija na tržištu koja automatski izvlači sve artikle te njihovu cijenu te sve ostale pripadajuće atribute. Nakon provjere jesu li svi podatci točni aplikacija automatski unosi podatke u fiskalnu kasu. Glavni atribut ove aplikacije jest to što ugostitelju može dnevno uštediti i do sat dragocijenog vremena u turističkoj sezoni.
+

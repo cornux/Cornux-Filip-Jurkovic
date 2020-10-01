@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313803020905",
+    "firebase_url": "https://cornux-4836d.firebaseio.com",
+    "project_id": "cornux-4836d",
+    "storage_bucket": "cornux-4836d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313803020905:android:d2b2d794ef7e0e88c6a0f8",
+        "android_client_info": {
+          "package_name": "com.example.cornux_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313803020905-e86qd4hf11hln0dmt8dspkrejtlnm0tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cornux_v2",
+            "certificate_hash": "dacfa1022ba0a14f1f44141e6fdefaccb89890b9"
+          }
+        },
+        {
+          "client_id": "313803020905-of8dnvtr2bg49s1pq1l6jlhi4d8hs3bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMbBeQKMDx0NutfZhB3Wg6w1swNr3eWdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313803020905-of8dnvtr2bg49s1pq1l6jlhi4d8hs3bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

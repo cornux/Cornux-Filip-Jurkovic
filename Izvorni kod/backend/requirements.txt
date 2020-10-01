@@ -1,0 +1,7 @@
+flask
+boto3
+opencv-python
+Pillow
+numpy
+imutils
+pytesseract
